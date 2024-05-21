@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "N",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "edc:deer_antlers"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "edc:deer_antlers_netherite_shovel"
+  }
+}
